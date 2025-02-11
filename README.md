@@ -5,7 +5,7 @@ This repository is for studying and organizing the content of agent courses offe
 💡 **Source:** https://huggingface.co/learn/agents-course/unit0/introduction
 
 ## Contents
-|Chapter|Topic|Description|
+|Unit|Topic|Description|
 |---|---|---|
 |0|Onboarding|Set you up with the tools and platforms that you will use.|
 |1|Agent Fundamentals|Explain Tools, Thoughts, Actions, Observations, and their formats. Explain LLMs, messages, special tokens and chat templates. Show a simple use case using python functions as tools.|
